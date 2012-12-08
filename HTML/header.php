@@ -5,8 +5,8 @@
 					<div class="nav-collapse">
 						<ul class="nav">
 							<li class="active"><a href="./index.php"><i class="icon-home icon-white"></i> Home</a></li>
-							<li><a href="#">Link</a></li>
-							<li><a href="#">Link</a></li>
+							<li><a href="#loginModal" data-toggle="modal">Forums</a></li>
+							<li><a href="#login2Modal" data-toggle="modal">Login</a></li>
 							<li><a href="#">Link</a></li>
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown</a>
